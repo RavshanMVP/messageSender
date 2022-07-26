@@ -1,1 +1,1 @@
-# ravshanmvp.github.io/messageSender
+# https://ravshanmvp.github.io/messageSender/
